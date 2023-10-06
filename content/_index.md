@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 
+      title: Uganda Biodiversity
       image:
         filename:
       cta:
@@ -15,10 +15,8 @@ sections:
         url: https://wowchemy.com/templates/
       cta_note:
       text: |-
-        k by Wowchemy - the FREE, Hugo-based open source website builder trusted by 500,000+ sites.
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        
+        **Biodiversity information system**
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -30,7 +28,7 @@ sections:
           filename: Male_Gorilla_(181091305).jpg
         filters:
         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-        size: cover
+        size: contain
         # Image focal point. Options include `left`, `center` (default), or `right`.
         position: center
         # Use a fun parallax-like fixed background effect on desktop? true/false
@@ -39,7 +37,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Sib Uganda
+      title: About Bio Uganda
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
