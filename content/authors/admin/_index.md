@@ -22,7 +22,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Publication of biodiversity data and information, and promotes its use by a wide variety of audiences.
 
 # Interests to show in About widget
 interests:
@@ -53,5 +53,5 @@ email: 'uganda.sib@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-This initiative was born with the objective of being the official node of the country in the Global Biodiversity Information Infrastructure (GBIF). Its main purpose is to provide open access to information about the country's biological diversity and facilitates the online publication of biodiversity data and information, and promotes its use by a wide variety of audiences.
+This initiative was born with the objective of being the official node of the country in the Global Biodiversity Information Infrastructure (GBIF). Its main purpose is to provide open access to information about the country's biological diversity and facilitates the online publication of biodiversity data and information, and promotes its use by a wide variety of audiences.ttttttttttttt
 {style="text-align: justify;"}
