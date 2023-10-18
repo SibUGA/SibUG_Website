@@ -12,7 +12,7 @@ sections:
         filename:
       cta:
         label: '**Explore**'
-        url: https://wowchemy.com/templates/
+        url: https://wowchemy.co
       cta_note:
       text: |-
         
@@ -37,34 +37,25 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Bio Uganda
+      title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
     content:
-      title: Uganda biodiversity
+      title:
       items:
-        - name: Plants
-          description: 90%
-          icon: leaf
+        - name: Datasets
+          description: 3
+          icon: database
           icon_pack: fas
-        - name: Mammalia
-          description: 100%
-          icon: hippo
+        - name: Biological records
+          description: 130
+          icon: map-location
           icon_pack: fas
-        - name: Insect
-          description: 10%
-          icon: spider
+        - name: Contributors
+          description: 1
+          icon: share-nodes
           icon_pack: fas
-        - name: Amphibia
-          description: 10%
-          icon: frog
-          icon_pack: fas
-        - name: Fish
-          description: 10%
-          icon: fish-fins
-          icon_pack: fas
-          
   - block: experience
     content:
       title: Community
@@ -151,7 +142,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: Card
       columns: '2'
   - block: portfolio
     id: projects

@@ -8,7 +8,7 @@ last_name:
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,10 +25,10 @@ organizations:
 bio: Publication of biodiversity data and information, and promotes its use by a wide variety of audiences.
 
 # Interests to show in About widget
-interests:
-  - Biodiversity data
-  - Global Biodiversity Information
-  - Information system
+#interests:
+# - Biodiversity data
+# - Global Biodiversity Information
+# - Information system
 
 # Education to show in About widget
 
@@ -53,5 +53,5 @@ email: 'uganda.sib@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-This initiative was born with the objective of being the official node of the country in the Global Biodiversity Information Infrastructure (GBIF). Its main purpose is to provide open access to information about the country's biological diversity and facilitates the online publication of biodiversity data and information, and promotes its use by a wide variety of audiences.ttttttttttttt
+This initiative was born with the objective of being the official node of the country in the Global Biodiversity Information Infrastructure (GBIF). Its main purpose is to provide open access to information about the country's biological diversity and facilitates the online publication of biodiversity data and information, and promotes its use by a wide variety of audiences.
 {style="text-align: justify;"}
