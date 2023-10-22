@@ -3,7 +3,7 @@ title: Birds of Uganda
 subtitle: Explore the birds biodiversity data 
 
 # Summary for listings and search engines
-summary:Explore the birds biodiversity data
+summary: Explore the birds biodiversity data
 
 # Link this post with a project
 projects: []
@@ -39,10 +39,10 @@ categories:
   - Birds
 ---
 
-```python
-import libr
-print('hello')
+```{r cars}
+summary(cars)
 ```
+
 
 ## Overview
 
